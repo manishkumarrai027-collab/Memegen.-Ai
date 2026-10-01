@@ -1,0 +1,6 @@
+{
+  "name": "MemeGen AI - Magic AI Meme Studio",
+  "description": "Create viral memes in seconds with AI vision captioning, trending templates, text-to-meme image generator, and full image scene analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
